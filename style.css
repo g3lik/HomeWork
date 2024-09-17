@@ -1,0 +1,78 @@
+body{
+margin: 50px;
+   
+    background-size: cover;
+    padding-bottom: 2%;
+    
+    
+    
+    
+    
+    background-image:url(assets/background.jpg);
+
+
+}
+
+
+.war-container{
+
+    text-align: right;
+    color: white;
+    width: 50px;
+    height: 50px;
+    
+}
+
+.photo-container{
+
+    color: white;
+}
+
+p{
+color: white;
+
+}
+.contact-container{
+    color: white;
+}
+
+a{
+
+    color: white;
+}
+
+.more-container {
+color: white;
+    
+    
+}
+
+h4{
+
+    text-align: center ;
+    color: red;
+}
+
+label {
+
+    color: white;
+}
+
+iframe {
+
+    text-align: center;
+}
+
+
+a{
+
+    text-align: center;
+}
+
+.facebook-container {
+
+
+padding: 30px;
+text-size-adjust: 100px;
+font-size: x-large;
+}
